@@ -19,9 +19,9 @@ body{
 .head{
     font-family: "Inter";
     color:#ffffff;
-    font-size: 80px;
+    font-size: 60px;
     font-weight: bold;
-    margin-top: 30vh;
+    margin-top: 100px
     text-align: center;
 }
 
@@ -76,7 +76,7 @@ body{
      .head{
         font-family: "Inter";
         color:#ffffff;
-        font-size: 60px;
+        font-size: 50px;
         font-weight: bold;
         margin-top: 6vh;
         text-align: center;
@@ -106,8 +106,8 @@ body{
         flex-direction: column;
         text-align: center;
         flex-wrap: wrap;
-        justify-content: flex-start;
-        align-items: flex-start;
+        justify-content: center;
+        align-items: center;
     }
 
     .img{
