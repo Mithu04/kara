@@ -117,11 +117,4 @@ body{
         border-radius: 6px;
     }
 
-            
-    .spicy{
-        display: flex;
-        flex-direction: column;
-        text-align: center;
-    }
-
 }
